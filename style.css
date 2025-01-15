@@ -1,0 +1,43 @@
+.card{
+    border: 1px solid grey;
+    box-shadow: 4px 4px 8px grey;
+    width: 200px;
+    
+}
+.card-img{
+    width: 150px;
+}
+#menu-card{
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    gap: 20px;
+    width: 100%;
+    margin: auto;
+    text-align: center;
+    
+}
+#menus{
+    display: flex;
+    justify-content: space-around;
+}
+#meal-details{
+
+    display: flex;
+    justify-content: space-around;
+    flex-wrap: wrap;
+    gap: 20px;
+    width: 100%;
+    margin: auto;
+    padding: 30px;
+}
+.details-card{
+    border: 1px solid grey;
+    box-shadow: 4px 4px 8px grey;
+    width: 300px;
+
+}
+.detail-img{
+    width: 300px;
+    padding: auto;
+}
